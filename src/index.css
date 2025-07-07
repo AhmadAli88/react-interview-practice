@@ -1,0 +1,10 @@
+/* Optional basic CSS if you're not using Tailwind */
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: #111;
+  color: white;
+}
